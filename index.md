@@ -1,1 +1,3 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+- [ ] _Turn on GitHub Pages_
+- [ ] *Outline my portfolio*
+- [ ] **Introduce myself to the world**
